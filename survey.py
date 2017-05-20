@@ -1,4 +1,4 @@
-#!/home/pi/venv/sensor-hammerhead/bin/python -u
+#!/usr/bin/env python3
 import traceback
 import sys
 import time
