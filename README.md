@@ -1,4 +1,4 @@
-# seaglass
+# SeaGlass
 
 This is the code to run a SeaGlass IMSI-catcher sensor. See https://seaglass.cs.washington.edu for more details on the SeaGlass project.
 
